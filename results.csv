@@ -1,2 +1,8 @@
-City,Android,iOS,Dart,JavaScript,React,Redux,Node.js,Nest.js,TypeScript,AWS,Kubernetes,Docker,Terraform,SQL,noSQL,c++,Azure,DevOps,Python,PostgreSQL,Angular,Jenkins,Vue.js,Akamai,GraphQL,c#,.NET,HTML,CSS,SCSS,Java,Bootstrap,Go
-Madrid,3,7,1,46,48,5,16,1,37,21,9,20,8,26,9,5,6,9,15,11,23,5,13,0,13,6,4,36,37,2,66,2,70
+City,Android,iOS,Dart,JavaScript,React,Redux,Node.js,Nest.js,TypeScript,AWS,Kubernetes,Docker,Terraform,SQL,noSQL,c++,Azure,DevOps,Python,Postgres,PostgreSQL,Angular,Jenkins,Vue.js,Akamai,GraphQL,c#,.NET,HTML,CSS,SCSS,Java,Springboot,Bootstrap,Drupal,Wordpress,English
+Amsterdam.json,1,0,0,45,33,4,11,0,21,13,15,16,1,15,4,3,14,8,16,7,5,17,1,9,0,2,14,18,33,28,1,53,0,0,0,1,26
+Barcalona.json,1,0,0,42,44,11,12,0,25,17,4,19,3,11,8,2,5,7,15,5,4,23,4,6,0,4,7,10,25,32,0,59,6,1,0,0,28
+Berlin.json,3,1,1,43,44,5,15,1,32,19,9,20,8,10,8,3,6,9,15,13,10,21,5,12,0,13,5,2,34,37,2,61,1,2,0,1,32
+Dublin.json,5,2,0,37,36,4,7,0,17,42,11,12,10,29,12,8,23,15,36,17,8,16,2,6,0,4,25,20,18,19,1,61,0,2,0,0,19
+London.json,3,3,0,51,62,11,13,0,34,29,8,23,6,13,6,5,6,20,30,17,10,13,2,5,0,9,10,4,31,37,4,55,1,2,1,2,7
+Madrid.json,5,2,1,35,27,5,4,1,15,5,2,5,0,20,3,3,5,5,9,2,1,21,7,3,0,0,8,11,25,25,2,60,6,6,0,3,8
+Munich.json,7,5,0,42,49,7,18,0,33,18,14,29,6,22,11,5,18,13,20,11,9,26,9,9,0,10,13,9,34,38,2,65,1,3,0,1,38

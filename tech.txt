@@ -16,6 +16,7 @@ noSQL
 c++
 Azure DevOps
 Python
+Postgres
 PostgreSQL
 Angular
 Jenkins
@@ -28,5 +29,8 @@ HTML
 CSS
 SCSS
 Java
+Springboot
 Bootstrap
-Go
+Drupal
+Wordpress
+English
